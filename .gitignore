@@ -16,3 +16,7 @@
 .byebug_history
 
 config/secrets\.yml
+
+.DS_store
+
+.bash_history
